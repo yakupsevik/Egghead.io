@@ -1,4 +1,4 @@
 # EggheadClone
  Egghead.io [Clone]
 
-![]("https://i.imgur.com/TQ3xbsT.png")
+![](https://i.imgur.com/TQ3xbsT.png)
